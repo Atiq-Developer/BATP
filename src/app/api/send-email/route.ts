@@ -262,8 +262,3 @@ function buildConfirmationEmail(formData: FormData) {
   `;
 }
 
-export const config = {
-  api: {
-    bodyParser: false,
-  },
-};
